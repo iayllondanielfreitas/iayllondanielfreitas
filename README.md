@@ -16,7 +16,7 @@ Sou um entusiasta da tecnologia e aluno de Ciência da Computação, atualmente 
 
 ### 📫 Como me encontrar
 
-- **GitHub**: @[iayllondanielfreitas]
+- **GitHub**: [@iayllondanielfreitas]
 - **LinkedIn**: [www.linkedin.com/in/iayllon-daniel-54264b344](www.linkedin.com/in/iayllon-daniel-54264b344)
 - **Email**: [iayllondanielfreitas@gmail.com]
 
