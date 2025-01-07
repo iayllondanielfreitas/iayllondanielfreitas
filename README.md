@@ -4,6 +4,8 @@
 
 Sou um entusiasta da tecnologia e aluno de Ciência da Computação, atualmente estagiário em Infraestrutura de T.I. Com habilidades diversificadas que abrangem Suporte T.I, Impressão 3D e Fotografia, estou sempre buscando expandir meus conhecimentos e aplicá-los em projetos inovadores.
 
+![Tech Enthusiast](link-para-o-seu-gif-aqui) <!-- Substitua "link-para-o-seu-gif-aqui" pelo URL do GIF que deseja usar -->
+
 ### 🌍 Localização
 - Tefé, Amazonas, Brasil
 
@@ -18,12 +20,13 @@ Sou um entusiasta da tecnologia e aluno de Ciência da Computação, atualmente 
 ### 📫 Como me encontrar
 
 - **GitHub**: @[SeuUsuarioGitHub]
-- **LinkedIn**: [www.linkedin.com/in/iayllon-daniel-54264b344]
+- **LinkedIn**: [www.linkedin.com/in/iayllon-daniel-54264b344](www.linkedin.com/in/iayllon-daniel-54264b344)
 - **Email**: [iayllondanielfreitas@gmail.com]
 
 ### 🤝 Vamos colaborar!
 
 Estou sempre aberto a novas oportunidades e colaborações. Se você tem um projeto ou ideia que precisa de alguém com minhas habilidades, não hesite em entrar em contato!
+
 
 
 <!--
