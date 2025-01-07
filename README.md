@@ -1,10 +1,9 @@
 # Iayllon Daniel
 
 ## 👋 Olá!
+![Tech Enthusiast](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWllbnh6eTMyNW5qMW52Z3FicTZ2bDcweWw2ZXE4N2N1Nm9vcm4yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RFIfubTMf06wH1LuUo/giphy.gif) <!-- Substitua "link-para-o-seu-gif-aqui" pelo URL do GIF que deseja usar -->
 
 Sou um entusiasta da tecnologia e aluno de Ciência da Computação, atualmente estagiário em Infraestrutura de T.I. Com habilidades diversificadas que abrangem Suporte T.I, Impressão 3D e Fotografia, estou sempre buscando expandir meus conhecimentos e aplicá-los em projetos inovadores.
-
-![Tech Enthusiast](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWllbnh6eTMyNW5qMW52Z3FicTZ2bDcweWw2ZXE4N2N1Nm9vcm4yYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RFIfubTMf06wH1LuUo/giphy.gif) <!-- Substitua "link-para-o-seu-gif-aqui" pelo URL do GIF que deseja usar -->
 
 ### 🌍 Localização
 - Tefé, Amazonas, Brasil
